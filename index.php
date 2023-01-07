@@ -2,7 +2,7 @@
 include 'header.php';
 include 'banner.php';
 include 'navigater.php';
-include 'connect_s1.php';
+include 'connect_s.php';
 ?>
 
 
