@@ -2,7 +2,7 @@
 include 'header.php';
 include 'banner.php';
 include 'navigater.php';
-include 'connect.php';
+include 'connect_s1.php';
 ?>
 <div class="container mt-5">
     <h1>Data of Student3</h1>
